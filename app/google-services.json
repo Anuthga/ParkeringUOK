@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "155246871317",
+    "firebase_url": "https://parkeringuok.firebaseio.com",
+    "project_id": "parkeringuok",
+    "storage_bucket": "parkeringuok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155246871317:android:98799ddb52892b11",
+        "android_client_info": {
+          "package_name": "com.example.anu.parkeringuok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155246871317-d42ntg3sqss63rlv2c5719adba1vevvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anu.parkeringuok",
+            "certificate_hash": "fa159f729d9c692ab1dddf92179c8a1f7fa942c3"
+          }
+        },
+        {
+          "client_id": "155246871317-4s7g7f2j45d57afsci8ogn9iugqe8rsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclEr2NEfK3YQlCEz2IoybmwC6WQFksXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155246871317-4s7g7f2j45d57afsci8ogn9iugqe8rsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
